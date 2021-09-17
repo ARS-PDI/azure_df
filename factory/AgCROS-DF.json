@@ -1,0 +1,9 @@
+{
+	"name": "AgCROS-DF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e2e4396-3f45-440b-b77c-4ead4e10175e",
+		"tenantId": "f223b518-592f-486f-a739-59ff9755f877"
+	}
+}
